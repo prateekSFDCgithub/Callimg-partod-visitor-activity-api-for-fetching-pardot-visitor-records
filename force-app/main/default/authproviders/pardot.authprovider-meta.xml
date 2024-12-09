@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorizeUrl>https://futurepartners--partial.sandbox.my.salesforce.com/services/oauth2/authorize</authorizeUrl>
+    <consumerKey>3MVG9j6uMOMC1DNj1HLhP4yW.c8ezNtOpgZ7GDSjZQZnRERHs2g0GroBVrbBSJZKkfOJyLPg7IM2EvCq4woQ6</consumerKey>
+    <consumerSecret>Placeholder_Value</consumerSecret>
+    <defaultScopes>Pardot_api_refresh_token</defaultScopes>
+    <friendlyName>pardot</friendlyName>
+    <includeOrgIdInIdentifier>true</includeOrgIdInIdentifier>
+    <isPkceEnabled>true</isPkceEnabled>
+    <providerType>Salesforce</providerType>
+    <requireMfa>false</requireMfa>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>true</sendSecretInApis>
+    <tokenUrl>https://futurepartners--partial.sandbox.my.salesforce.com/services/oauth2/token</tokenUrl>
+</AuthProvider>
